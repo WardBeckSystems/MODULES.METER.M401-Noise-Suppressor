@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 81 in 61 lines: RE-DRAWN · Iss_ MoD CKD_ · 2631 · Nh · 20 · 800-7.42 · 2HOLES DRILL · 8 TAP4-4OUNC · 1 DEER · 2HOLES · 64DIA · 4HOLEs4 DIA
 - **Title block:** (177, 8)–(428, 271) mm: RE-DRAWN · Iss_ MoD CKD_ · 2631 · Nh · 800-7.42 · ON · 32 CHARACTERS · GATE · OFF · 21 · DISPOSE AS SHOWN · 21a · HOLE DIMAs · PANEL · 1.65 · 240 · M401-2 · 8 CHARACTERS DISPOSE · AS SHOWN · NOTES · #
 
-Every curve, box, word and wire group: [19xx - M401 - DOC - 401-03-004 - HOLES DIA (traced).json](../MECHANICAL/19xx%20-%20M401%20-%20DOC%20-%20401-03-004%20-%20HOLES%20DIA%20(traced).json) (the CAD file: `19xx - M401 - DOC - 401-03-004 - HOLES DIA (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M401 - DOC - 401-03-004 - HOLES DIA (traced).json](../MECHANICAL/19xx%20-%20M401%20-%20DOC%20-%20401-03-004%20-%20HOLES%20DIA%20%28traced%29.json) (the CAD file: `19xx - M401 - DOC - 401-03-004 - HOLES DIA (traced).dxf`).
 
 ## Full text
 

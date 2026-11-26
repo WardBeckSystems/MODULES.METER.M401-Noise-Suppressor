@@ -34,7 +34,7 @@ Mechanical detail of a cover plate with bends and holes.
 - **Words (OCR):** 44 in 38 lines: ISSUE · BRAcKETs · Aat Ar 4S · De · Jn69 · 5.04 · TAP · 4 HOLES DRILL · 4-4OUNC _ · 45EACH SIDE) · 24 · 1.25
 - **Title block:** (182, 10)–(408, 284) mm: ISSUE · BRAcKETs · Aat Ar 4S · De · Jn69 · TAP · 4 HOLES DRILL · 4-4OUNC _ · 24 · 1.25 · 2 HOLES 64 DIA · MIN BEND · RAD · VARD · BECK SYSTEMS · DRN · DJG · 120 GRiT e BLACK · DATE · 29Th OCt68 ANODIZ
 
-Every curve, box, word and wire group: [1969 - 401-03-007 - COVER PLATE DETAIL - ISS 2 (traced).json](../MECHANICAL/1969%20-%20401-03-007%20-%20COVER%20PLATE%20DETAIL%20-%20ISS%202%20(traced).json) (the CAD file: `1969 - 401-03-007 - COVER PLATE DETAIL - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 401-03-007 - COVER PLATE DETAIL - ISS 2 (traced).json](../MECHANICAL/1969%20-%20401-03-007%20-%20COVER%20PLATE%20DETAIL%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1969 - 401-03-007 - COVER PLATE DETAIL - ISS 2 (traced).dxf`).
 
 ## Full text
 

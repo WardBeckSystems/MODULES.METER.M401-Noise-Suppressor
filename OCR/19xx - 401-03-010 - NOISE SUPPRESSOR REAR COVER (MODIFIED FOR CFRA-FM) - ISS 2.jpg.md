@@ -38,7 +38,7 @@ Rear cover drilling detail for the M401 noise suppressor.
 - **Words (OCR):** 62 in 41 lines: 5.37 · 99 · DRILL & TAP 4-4OUNC · I8 · 8 HOLES · 656 · 1.47 · 34 · 1.062 · 103 · OUTPUT · INPUT
 - **Title block:** (166, 27)–(373, 56) mm: ISS_ MoD CKD DRN · FlISH · 240 · Grit, ZINc WARD · DJG · 2631 MM DATE · CHROMATE · PAiNT AMPEX · DEC 68 · GRFY To Wbs · SFFC . ^ {2007 M401 NOISE SUPPRESSOR
 
-Every curve, box, word and wire group: [19xx - 401-03-010 - NOISE SUPPRESSOR REAR COVER (MODIFIED FOR CFRA-FM) - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20401-03-010%20-%20NOISE%20SUPPRESSOR%20REAR%20COVER%20(MODIFIED%20FOR%20CFRA-FM)%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 401-03-010 - NOISE SUPPRESSOR REAR COVER (MODIFIED FOR CFRA-FM) - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 401-03-010 - NOISE SUPPRESSOR REAR COVER (MODIFIED FOR CFRA-FM) - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20401-03-010%20-%20NOISE%20SUPPRESSOR%20REAR%20COVER%20%28MODIFIED%20FOR%20CFRA-FM%29%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 401-03-010 - NOISE SUPPRESSOR REAR COVER (MODIFIED FOR CFRA-FM) - ISS 2 (traced).dxf`).
 
 ## Full text
 

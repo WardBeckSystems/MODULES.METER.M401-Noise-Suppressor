@@ -33,7 +33,7 @@ Mechanical detail of a side panel with hole dimensions.
 - **Words (OCR):** 38 in 31 lines: 35 · HOLES 64 DIA · 458 · 1+37 · 216 2-65 · i3 · 187 · ROUND OFF CORNERS · 5.03 · 1.50 · BECK SVSTEMS · Lt;
 - **Title block:** (180, 10)–(374, 59) mm: BECK SVSTEMS · DRN · DJG · FinISH · ARD · 120 GRIT & BLACK ANODIZE · DATE · 28THCCT 68 · SIDE PANEL DETAIL · 71( · MAT ERIAL · CHKD · 090 AL · SCALE FULL SIZE · RACT · DEC · CES   GIVEN · ANGLES · G1$
 
-Every curve, box, word and wire group: [1968 - 401-03-008 - SIDE PANEL DETAIL - ISS 1 (traced).json](../MECHANICAL/1968%20-%20401-03-008%20-%20SIDE%20PANEL%20DETAIL%20-%20ISS%201%20(traced).json) (the CAD file: `1968 - 401-03-008 - SIDE PANEL DETAIL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 401-03-008 - SIDE PANEL DETAIL - ISS 1 (traced).json](../MECHANICAL/1968%20-%20401-03-008%20-%20SIDE%20PANEL%20DETAIL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1968 - 401-03-008 - SIDE PANEL DETAIL - ISS 1 (traced).dxf`).
 
 ## Full text
 

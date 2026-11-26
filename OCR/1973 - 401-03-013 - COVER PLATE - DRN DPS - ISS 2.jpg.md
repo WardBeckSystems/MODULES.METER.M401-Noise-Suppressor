@@ -33,7 +33,7 @@ Wiki page: [M401](../../../../PAGES/M401.md)
 - **Words (OCR):** 57 in 38 lines: 9.56 · 7.56 · 40i013 · 16 · HoLes 14 DIA · NeIes · See Note 2 · ReMove ALL Burrs · SHARP eDees · PArt Ne · 401013 To · Be PerMANENTLY
 - **Title block:** (141, 6)–(413, 58) mm: ISS MOD [CKD_ · USED ON · MATL · 2631 · D 401 -03 009 · GA ( - 059) · WBS WARD-BECK SySTEMS · crs · DRN: · DR? · FINISH · DATE 20 Nc73 · CKD · PLATE · Paint TEXTURID GRIY SCALE · COVER · To spec A1200
 
-Every curve, box, word and wire group: [1973 - 401-03-013 - COVER PLATE - DRN DPS - ISS 2 (traced).json](../MECHANICAL/1973%20-%20401-03-013%20-%20COVER%20PLATE%20-%20DRN%20DPS%20-%20ISS%202%20(traced).json) (the CAD file: `1973 - 401-03-013 - COVER PLATE - DRN DPS - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 401-03-013 - COVER PLATE - DRN DPS - ISS 2 (traced).json](../MECHANICAL/1973%20-%20401-03-013%20-%20COVER%20PLATE%20-%20DRN%20DPS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1973 - 401-03-013 - COVER PLATE - DRN DPS - ISS 2 (traced).dxf`).
 
 ## Full text
 
