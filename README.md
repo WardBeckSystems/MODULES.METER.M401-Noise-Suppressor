@@ -23,6 +23,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1968 - 401-03-008 - SIDE PANEL DETAIL - ISS 1.jpg`, `1969 - 401-03-007 - COVER PLATE DETAIL - ISS 2.jpg`, `1973 - 401-03-013 - COVER PLATE - DRN DPS - ISS 2.jpg`, `19xx - 401-03-010 - NOISE SUPPRESSOR REAR COVER (MODIFIED FOR CFRA-FM) - ISS 2.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M401.stl`](MECHANICAL/M401.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M401)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M401 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M401.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
