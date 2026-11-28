@@ -1,6 +1,6 @@
 # M401 Noise Suppressor · Meter
 
-Ward-Beck Systems M401, 1968|1. Wiki page: [M401 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M401.html)
+Ward-Beck Systems M401, 1968|1. Wiki page: [M401 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M401-Noise-Suppressor/)
 
 | Folder | What is in it | Files |
 |---|---|---|

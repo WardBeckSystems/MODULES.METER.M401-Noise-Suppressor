@@ -1,5 +1,5 @@
 # 1968 - 401-03-008 - SIDE PANEL DETAIL - ISS 1.jpg
-Wiki page: [M401](../../../../PAGES/M401.md)
+Wiki page: [M401](../)
 
 
 - **Year:** 1968 (title block date)

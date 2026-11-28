@@ -1,5 +1,5 @@
 # 1969 - 401-03-007 - COVER PLATE DETAIL - ISS 2.jpg
-Wiki page: [M401](../../../../PAGES/M401.md)
+Wiki page: [M401](../)
 
 
 - **Year:** 1969 (title block date)

@@ -1,5 +1,5 @@
 # 1973 - 401-03-013 - COVER PLATE - DRN DPS - ISS 2.jpg
-Wiki page: [M401](../../../../PAGES/M401.md)
+Wiki page: [M401](../)
 
 
 - **Year:** 1973 (title block date)

@@ -1,5 +1,5 @@
 # 19xx - 401-03-010 - NOISE SUPPRESSOR REAR COVER (MODIFIED FOR CFRA-FM) - ISS 2.jpg
-Wiki page: [M401](../../../../PAGES/M401.md)
+Wiki page: [M401](../)
 
 
 - **Year:** unknown (title block (read by eye))
